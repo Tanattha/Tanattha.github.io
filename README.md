@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome Tanattha's Blogs
 
-You can use the [editor on GitHub](https://github.com/Tanattha/tanattha.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+    Why did you decide to learn Software Engineering
+    03/14/2020 by Tanattha Thuenim
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The main reason I would like to study Software Engineering because I want to get a professional job in the USA. 
+I want to start a job in an IT career.  I graduated in an IT major and used to code in Thailand for a while. 
+I had to stop because I came to the USA as an Aupair. When I finished the Aupair program, I knew that I wanted to 
+study either Software Engineering or Data Science. But one of my friends who graduated from the Software Engineering 
+program told me how good this program was. I checked out on the website and saw that was fit my need. More than that, 
+when I started the Bootcamp prep, it brought my feeling about coding back and I am so happy working on it.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tanattha/tanattha.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I never code Javascript, Ruby or do full-stack before. Everything is new and challenge me. I kept studying on the Bootcamp 
+every day even when I was working full-time. I tried my best in every lab. I know that this program will give me an opportunity to find a good job and make my life better. I also know that this is going to give me a hard time but I am not looking for easy anyway.
